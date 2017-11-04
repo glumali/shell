@@ -12,3 +12,4 @@
 # CalCounter
 # information-security
 # OCaml
+# shell
