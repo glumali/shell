@@ -6,3 +6,4 @@
 # autocomplete
 # 8Puzzle
 # KD-Tree
+# WordNet
