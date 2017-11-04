@@ -7,3 +7,4 @@
 # 8Puzzle
 # KD-Tree
 # WordNet
+# SeamCarver
