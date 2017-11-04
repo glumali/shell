@@ -8,3 +8,4 @@
 # KD-Tree
 # WordNet
 # SeamCarver
+# Burrows-Wheeler
